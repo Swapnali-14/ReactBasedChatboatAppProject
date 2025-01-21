@@ -10,6 +10,6 @@ CREATE TABLE `chatboat_message` (
   `created_at` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
-# To run node app use command :- node server.js
+# To run node  use command :- node server.js
 # To run react app :- npm start
 
